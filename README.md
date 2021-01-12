@@ -1,4 +1,6 @@
 # In-App Pro Shop
+Cloned from [https://github.com/kvutien/in-app-pro-shop.git](https://github.com/kvutien/in-app-pro-shop.git), January 12, 2021. To be analysed to understand how to use `Factory` design pattern and ERC-721 Non Fungible Tokens. It uses React. It has not been touched since 13 months (Solidity pragmas updated).
+
 An Ethereum blockchain-based system for in-app purchases implemented as ERC-721 non-fungible tokens.
 
 ## Status
